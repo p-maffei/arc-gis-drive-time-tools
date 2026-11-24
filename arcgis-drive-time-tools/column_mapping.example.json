@@ -1,0 +1,23 @@
+{
+  "data_sheet": "Data",
+  "header_sheet": "Summary",
+  "sort_field": "RING",
+
+  "header": {
+    "name_field": "Name",
+    "state_field": "State",
+    "location_fields": ["Address", "Intersection"]
+  },
+
+  "columns": {
+    "RING": "B2",
+    "Name": "B4",
+    "Address": "B5",
+    "Intersection": "B6",
+    "City": "B7",
+    "State": "B8",
+    "Zip": "B9",
+    "TOTPOP_CY": "B11",
+    "MEDHINC_CY": "B12"
+  }
+}

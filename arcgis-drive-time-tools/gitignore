@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ArcGIS Pro project files and data (keep these out of the repo)
+*.aprx
+*.atbx
+*.tbx
+*.gdb/
+*.lock
+*.sr.lock
+.backups/
+ImportLog/
+Index/
+GpMessages/
+*.xml
+
+# Private settings and data: keep your real mapping and templates local
+column_mapping.json
+*.xlsx
+*.xlsm
+*.xls
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
